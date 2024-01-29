@@ -18,6 +18,7 @@ const Hero = () => {
         <h1 className={`${styles.heroHeadText} text-white`}>
   Hi, I'm <span style={{ color: '#FF0000' }}>Matthew</span>
 </h1>
+<h1 className={`${styles.heroHeadText} text-white`}>THIS PAGE IS UNDER CONSTRUCTION</h1>
 
 <p className={`${styles.heroSubText} mt-2 text-white-100`}>
   I specialize in <span style={{ color: 'green' }}>3</span>
