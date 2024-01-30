@@ -21,9 +21,9 @@ const Hero = () => {
 <h1 className={`${styles.heroHeadText} text-white`}>THIS PAGE IS UNDER CONSTRUCTION</h1>
 
 <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-  I specialize in <span style={{ color: 'green' }}>3</span>
-  <span style={{ color: 'blue' }}>D</span> visuals, user <br className='sm:block hidden' />
-  interfaces and web applications
+  I am a Full Stack Web Developer specializing<br className="sm:block hidden" /> in <span style={{ color: 'green' }}>3</span>
+  <span style={{ color: 'blue' }}>D</span> Visuals, User
+  Interfaces  <br className='sm:block hidden' /> and Web Applications
 </p>
 
         </div>
